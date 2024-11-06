@@ -1,1 +1,2 @@
-# Mini-Project-1B
+Anti-Virus
+The main purpose of this project was to make an anti-virus that does not interfere with your daily tasks without slowing down your computer and is easy for developers. This Project explores how viruses access our computers and what large Tec - companies do to fight them. Python was used to create Anti- Virus due to it being easy and easy to understand. Other languages were also used to create Viruses for example C, C++, Python and VB etc
